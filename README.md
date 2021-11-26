@@ -1,10 +1,10 @@
 # social_distancing_yolov3
 REQUIREMENTS:
-You will need the following to run this code:
-#Python 3.5.2
-#Opencv(CV2) 4.2.0
-#numpy 1.14.5
-#argparse
+You will need the following to run this code:\
+Python 3.5.2\
+Opencv(CV2) 4.2.0\
+numpy 1.14.5\
+argparse\
 
 For human detection:
 yolov3.weights, yolov3.cfg files (weights file in not present because of size issue. It can be downloaded from 
